@@ -22,7 +22,10 @@ jobs:
           node-version: '20' # Sesuaikan sama versi Node kamu
 
       - name: Install Dependencies
-        run: npm install
+        run: npm esbuild
+      
+      - name: Type Check
+        run: npm run typecheck
 
       # 1. CEK ERROR: Coba build pake esbuild
       - name: Check Build
