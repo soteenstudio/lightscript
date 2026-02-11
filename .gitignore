@@ -4,3 +4,4 @@
 /assembly/src/temperal/
 lightconfig.json
 .npmignore
+*.tgz
