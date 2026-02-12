@@ -1,3 +1,4 @@
 * Get Started
-  * Introduction
-  * Installation
+  * [Introduction](README.md)
+  * [Installation](installation.md)
+  * [Command and Flags](command-and-flags.md)
