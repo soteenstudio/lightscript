@@ -1,8 +1,7 @@
 # Command and Flags
 Koltic uses a command that has the same name as the programming language itself, namely `koltic`.
-
 | Flag | Utility | Example |
-| :--- | :---| :--- |
+| :--- | :--- | :--- |
 | `-h`, `--help` | Displays help | `koltic --help` |
 | `-V`, `--version` | Displays the version | `koltic --version` |
 | `-i`, `--init` | Initialize a new Koltic project | `koltic --init` |
